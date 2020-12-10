@@ -107,7 +107,7 @@
 		}
 
 
-		fetchData(2016);
+		fetchData((new Date()).getFullYear());
 
 	}
 
