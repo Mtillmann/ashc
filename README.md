@@ -9,7 +9,7 @@ amazon shopping history charts
 ```
 (function(){ 
   var d = document, s = d.createElement('script');
-  s.setAttribute('src','https://rawgit.com/Mtillmann/ashc/master/amznchrt.js');
+  s.setAttribute('src','https://cdn.jsdelivr.net/gh/Mtillmann/ashc@master/amznchrt.js');
   d.body.appendChild(s);
 })();
 ```
